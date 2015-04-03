@@ -28,4 +28,3 @@ All about Jenkins CI can be found on our [website]. Follow us on Twitter @[jenki
 [jenkinsci]: http://twitter.com/jenkinsci
 [ ![Codeship Status for txqyou/jenkins](https://codeship.com/projects/7a5cf140-bbd7-0132-257d-7ab97aac1fb6/status?branch=1.509)](https://codeship.com/projects/72293)
 
-deploy to the Heroku
